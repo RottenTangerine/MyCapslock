@@ -12,31 +12,55 @@ For other key mapping, I personally suggest to use [Microsoft PowerToys](https:/
 
 ## Shortcuts Overview
 
+### Cursor Control
+
 CapsLock + h |  Left 
+
 CapsLock + j |  Down
+
 CapsLock + k |  Up 
+
 CapsLock + l |  Right 
+
+
+
+CapsLock + i |  Home
+
+CapsLock + o |  End
+
+CapsLock + u |  PageUp
+
+CapsLock + p |  PageDown
+
 Shift, Alt (replaces the Ctrl) Compatible
 
- CapsLock + i |  Home
-CapsLock + o |  End
-CapsLock + u |  PageUp
-CapsLock + p |  PageDown
-Shift, Alt (replaces the Ctrl) Compatible
+
+
+CapsLock + w  |  Ctrl + Right (Move as [vim: w]);|
+
+CapsLock + b  |  Ctrl + Left (Move as [vim: b])
+
+### Mouse Control
 
 CapsLock + Up   |  Mouse Up
+
 CapsLock + Down |  Mouse Down
+
 CapsLock + Left |  Mouse Left
+
 CapsLock + Right |  Mouse Right
+
 CapsLock + Enter(Push Release) |  Mouse Left Push(Release)
 
-CapsLock + n  |  Ctrl + Delete (Delete a Word)
-CapsLock + m  |  Delete
-CapsLock + ,  |  BackSpace
-CapsLock + .  |  Ctrl + BackSpace              
+### Delete Control
 
-CapsLock + w  |  Ctrl + Right(Move as [vim: w]);|
-CapsLock + b  |  Ctrl + Left (Move as [vim: b])
+CapsLock + n  |  Ctrl + Delete (Delete a Word)
+
+CapsLock + m  |  Delete
+
+CapsLock + ,  |  BackSpace
+
+CapsLock + .  |  Ctrl + BackSpace              
 
 ## Run automatically at startup
 
